@@ -1,0 +1,9 @@
+pandas
+geopandas
+shapely
+matplotlib
+folium
+tqdm
+OSMPythonTools
+pymorphy3
+pymorphy3-dicts-ru
